@@ -9,8 +9,8 @@
     <Grid x:Name="btngo">
         <Button x:Name="btngo1" Content="開始" HorizontalAlignment="Left" Margin="220,172,0,0" VerticalAlignment="Top" Height="82" Width="180" Click="Button_Click"/>
         <TextBox x:Name="txtshow" HorizontalAlignment="Left" Margin="459,172,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="222" Height="106"/>
-        <Button x:Name="btngo2" Content="Button" HorizontalAlignment="Left" Margin="261,308,0,0" VerticalAlignment="Top" Height="95" Width="173"/>
-        <TextBox x:Name="txtshow1" HorizontalAlignment="Left" Margin="493,327,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="188" Height="76"/>
+        <Button x:Name="btngo2" Content="開始" HorizontalAlignment="Left" Margin="261,308,0,0" VerticalAlignment="Top" Height="95" Width="173"/>
+        <TextBox x:Name="txtshow1" HorizontalAlignment="Left" Margin="493,327,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="188" Height="76"/>
 
     </Grid>
 </Window>
