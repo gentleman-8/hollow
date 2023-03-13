@@ -29,5 +29,10 @@ namespace hollow
         {
             txtshow.Text = "Hello World!";
         }
+
+        private void btngo2_Click(object sender, RoutedEventArgs e)
+        {
+            txtshow1.Text = "Hello World!";
+        }
     }
 }
